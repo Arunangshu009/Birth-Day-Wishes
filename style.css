@@ -1,0 +1,16 @@
+h1{
+    text-shadow: black;
+    text-decoration: underline, arial;
+    text-decoration-style: wavy, red;
+}
+img{
+    height: 600px;
+    width: 600px;
+}
+#body.background{
+    background-image: url('birthday mom.jpg');
+}
+button{
+    color: chartreuse;
+    text-decoration: red;
+}
